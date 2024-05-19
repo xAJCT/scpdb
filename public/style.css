@@ -1,0 +1,23 @@
+body {
+    background-color: #212529;
+}
+
+#root {
+    background-color: white;
+}
+
+#nav {
+
+    background-image: linear-gradient(to bottom, #161515, rgb(34, 21, 21), #330000, #660000);
+}
+
+#bttBTN {
+    justify-content: center;
+    text-align: center;
+}
+
+#foot {
+
+    background-image: linear-gradient(to bottom, #660000, #330000, rgb(34, 21, 21), #161515);
+    color: white;
+}
